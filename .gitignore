@@ -7,3 +7,5 @@
 *.framework
 *.exe
 *.lib
+
+build/
